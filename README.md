@@ -1,6 +1,8 @@
 # my-project
 
 > A Vue.js project
+> node.js express 搭建后台
+> mogoodb做数据库
 
 ## Build Setup
 
